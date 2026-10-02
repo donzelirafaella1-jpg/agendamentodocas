@@ -1,0 +1,6 @@
+{
+  "name": "Move Log TMS",
+  "description": "Sistema integrado de gestão de transporte, pátio e docas do Centro de Distribuição Move Log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
